@@ -1,2 +1,2 @@
 # SportStore
-Alışveriş Sitesi Altyapı
+Alışveriş Sitesi Basit Altyapı
