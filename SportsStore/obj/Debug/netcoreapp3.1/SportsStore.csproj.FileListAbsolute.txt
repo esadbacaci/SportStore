@@ -1,0 +1,464 @@
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\global.json
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsStore.styles.css
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+F:\Cart\End of Chapter\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\global.json
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsStore.styles.css
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\MEHMET\Desktop\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\global.json
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.StaticWebAssets.xml
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+D:\Yeni klasör (4)\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\global.json
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.StaticWebAssets.xml
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\sahin\Desktop\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\global.json
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsStore.styles.css
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\bcces\Desktop\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\global.json
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.StaticWebAssets.xml
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Pack.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SportsStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SportsStore.props
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SportsStore.props
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SportsStore.props
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+D:\Ders\SportsSln\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
